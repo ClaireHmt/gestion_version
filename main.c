@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+jibibibib<<<<<<< HEAD
 deuxieme test premiere modif
 =======
 deuxieme test troisieme
